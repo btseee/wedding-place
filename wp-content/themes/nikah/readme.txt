@@ -1,0 +1,4 @@
+Nikah is Wedding Organizer, Wedding Planner WordPress Theme. Nikah uses drag and drop page builder for built the page elements, make you easier to arrange your layout. This theme also served with extensive theme options. With header builder and footer options, we create every one of theme have their controls. Every choices is in you.
+
+Nikah will show off your work with this easy-to-customize and fully featured WordPress theme. 
+Customizing is easy even for beginners, but if you need help with customizing or setting up this theme, we will be glad to help you. Just contact us via our support tab.

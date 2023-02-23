@@ -1,0 +1,60 @@
+Version 1.7 - 30 March, 2022
+
+- UPDATED	: Advanced Custom Fields Pro Plugin
+- UPDATED	: Revolution Slider
+- FIXED		: Plugin extra causing fatal error
+
+Version 1.6 - 28 December, 2020
+
+- UPDATED	: Advanced Custom Fields Pro Plugin to v5.9.3
+- UPDATED	: Revolution Slider to v6.3.3
+- UPDATED	: Demo content data
+- FIXED		: Some Bugs
+
+Version 1.5 - 22 September, 2020
+
+- UPDATED	: Advanced Custom Fields Pro Plugin to v5.9.1
+- FIXED		: Demo Importer
+
+Version 1.4 - 21 April, 2019
+
+- UPDATED	: Advanced Custom Fields Pro Plugin to v5.8.9
+- FIXED		: Post Widget
+- FIXED		: Portfolio Widget
+- FIXED		: Post Block Elementor
+- FIXED		: Gallery Block Elementor
+- FIXED		: Testimonial Block Elementor
+- FIXED		: Client Block Elementor
+- FIXED		: Portfolio Block Elementor
+- FIXED		: Team Block Elementor
+
+
+Version 1.3 - May 15, 2019
+
+- UPDATED	: Advanced Custom Fields Pro Plugin to v5.8.0
+- UPDATED	: Demo content data
+
+file changed:
+- plugins/advanced-custom-fields-pro.zip
+- plugins/nikah-extra.zip
+
+Version 1.2 - March 23, 2018
+
+- UPDATED	: Advanced Custom Fields Pro Plugin to v5.7.8
+- UPDATED	: Revolution Slider to v5.4.8.1
+- UPDATED	: Demo content data
+- REMOVED	: Instagram block due security issues
+
+file changed:
+- plugins/advanced-custom-fields-pro.zip
+- plugins/revslider.zip
+- plugins/nikah-extra.zip
+
+Version 1.1 March 20, 2018
+
+- FIXED		: Instagram Feed Gallery
+- UPDATED	: ACF Pro
+
+File Changed:
+- plugins/nikah-extra.zip
+- plugins/advanced-custom-fields-pro.zip

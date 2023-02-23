@@ -1,0 +1,62 @@
+.elementor-editor-active #sticky-wrap-head {
+    z-index: 0;
+}
+
+.redux-container #redux-header {
+    background-color: #1c1c58 !important;
+    border-color: #5252ce !important;
+}
+.redux-container #redux-footer {
+    padding: 10px;
+}
+.redux-container #redux-footer #redux-share img {
+    width: 100px !important;
+}
+.redux-container #redux-footer #redux-share {
+    line-height: 1;
+}
+
+.redux-container .button-primary,
+.redux-container .redux-sidebar .redux-group-menu li.activeChild.hasSubSections a,
+.redux-action_bar .button-primary.focus, .redux-action_bar .button-primary.hover, .redux-action_bar .button-primary:focus, .redux-action_bar .button-primary:hover,
+.redux-action_bar .button-primary.active, .redux-action_bar .button-primary.active:focus, .redux-action_bar .button-primary.active:hover, .redux-action_bar .button-primary:active {
+    background: #5252ce !important;
+    border-color: #5252ce !important;
+    color: #ffffff !important;
+}
+
+.redux-container .button, .redux-container .button-secondary, .redux-container .button-secondary:hover, .redux-container .button.hover, .redux-container .button:hover {
+    color: #5252ce;
+    border-color: #5252ce;
+    vertical-align: top;
+}
+
+.redux-main .button.remove-image, .redux-main .removeCSS {
+    border-color: #ef521d;
+}
+
+.redux-container .ui-buttonset .ui-state-active, .control-section-redux .ui-buttonset .ui-state-active, .control-panel-redux .ui-buttonset .ui-state-active, .redux-metabox .ui-buttonset .ui-state-active {
+    background-color: #5252ce !important;
+    background-image: -khtml-gradient(linear,left top,left bottom,from(#5252ce),to(#5252ce)) !important;
+    background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0,#5252ce),color-stop(100%,#5252ce)) !important;
+    background-image: -webkit-linear-gradient(top,#5252ce,#5252ce) !important;
+    background-image: -linear-gradient(top,#5252ce,#5252ce) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5252ce",endColorstr="#5252ce",GradientType=0) !important;
+    border-color: #5252ce !important;
+    border-color: #5252ce !important;
+    -webkit-box-shadow: inset 0 1px 0 #1c1c58,0 1px 0 rgba(0,0,0,0.15) !important;
+    box-shadow: inset 0 1px 0 #1c1c58,0 1px 0 rgba(0,0,0,0.15) !important;
+}
+
+.redux-container-spinner .ui-widget .ui-spinner-button .ui-icon, .redux-container-switch .cb-enable.selected, .redux-field-container .ui-buttonset .ui-state-active {
+    background-color: #5252ce !important;
+    background-image: -khtml-gradient(linear,left top,left bottom,from(#5252ce),to(#5252ce)) !important;
+    background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0,#5252ce),color-stop(100%,#5252ce)) !important;
+    background-image: -webkit-linear-gradient(top,#5252ce,#5252ce) !important;
+    background-image: -linear-gradient(top,#5252ce,#5252ce) !important;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5252ce",endColorstr="#5252ce",GradientType=0) !important;
+    border-color: #5252ce !important;
+    border-color: #5252ce !important;
+    -webkit-box-shadow: inset 0 1px 0 #1c1c58,0 1px 0 rgba(0,0,0,0.15) !important;
+    box-shadow: inset 0 1px 0 #1c1c58,0 1px 0 rgba(0,0,0,0.15) !important;
+}
